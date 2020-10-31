@@ -80,6 +80,8 @@ img {
 .progect_text {
   border: 1px solid #eeeeee;
   padding-left: 24px;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
 .progect_list {
   margin: 0;
