@@ -23,6 +23,14 @@ a {
 
 /* hero */
 
+.hero {
+	background-color: var(--footer-fon-color);
+	max-width: 1600px;
+	height: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .hero_container {
 	margin-left: auto;
 	margin-right: auto;
@@ -47,7 +55,7 @@ a {
 	margin-bottom: 30px;
 	text-align: center;
 
-	color: var(--primary-text-color);
+	color: var(--primary-white-color);
 	font-weight: 900;
 	font-size: 44px;
 	line-height: 1.4;
